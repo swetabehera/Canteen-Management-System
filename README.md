@@ -15,6 +15,7 @@ Displaying Invoice with TAX/GST included. MySQL Database is used in backend. You
 ![](https://user-images.githubusercontent.com/34244004/136811999-0f5359bb-642b-4fd5-8346-4778835c59bb.gif)
 
 * Other features
+![](https://github.com/swetabehera/Canteen-Management-System/blob/main/ezgif.com-gif-maker.gif)
 
 ## Features 
 

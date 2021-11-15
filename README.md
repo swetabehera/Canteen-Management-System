@@ -56,19 +56,17 @@ For ease, use Code::Blocks IDE
 * Download libmysql.dll from https://www.dropbox.com/s/nktlkafhmez7c1o/libmysql.dll.zip?dl=0
       
 Note: - You have to unzip the downloaded files to get above mention files.
-*  Now go to C:\Program Files (x86)\CodeBlocks\MinGW\include  and paste the header files here (excluding libmysql.a and libmysql.dll).
+*  Go to C:\Program Files (x86)\CodeBlocks\MinGW\include in your Windows system and paste the header files here (except libmysql.a and libmysql.dll).
 *  Go to C:\Program Files (x86)\CodeBlocks\MinGW\lib  and paste libmysql.a file here.
-*  Go to codeblocks --> file -->new -->project -->console application -->go --> and fill all the required fields.
-*  Now go to your project folder --> bin --> debug --> add libmysql.dll here.
-*  Copy all the codes of project and paste it in main.cpp of your project folder.
-* Go to the setting tab of CodeBlocks --> compiler --> linker setting --> add --> 
-     C:\Program Files (x86)\CodeBlocks\MinGW\lib\libmysql.a
-* Now go to CodeBlocks --> setting -->compiler --> search directories --> add -->
-     C:\Program Files (x86)\CodeBlocks\MinGW\include
+*  Go to codeblocks --> file --> new --> project --> console application --> go --> fill all the required fields.
+*  Go to your project folder --> bin --> debug --> add libmysql.dll here.
+*  Copy all the contents of the project and paste it in main.cpp of your project folder.
+*  Go to the setting tab of CodeBlocks --> compiler --> linker setting --> add --> C:\Program Files  (x86)\CodeBlocks\MinGW\lib\libmysql.a
+*  Go to CodeBlocks --> setting -->compiler --> search directories --> add --> C:\Program Files (x86)\CodeBlocks\MinGW\include
 *  Download XAMPP software and install it.
-* Run the XAMPP control panel as an administrator.
-* Start the apache server first and then mysql server.
-* Click admin button.
+*  Run the XAMPP control panel as an administrator.
+*  Start the apache server first and then mysql server.
+*  Click admin button.
 *  Your default browser will be open and you can see the database there. i.e localhost/phpmyadmin/
 *  Now you are good to go.
 

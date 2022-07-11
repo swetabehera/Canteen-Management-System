@@ -6,8 +6,9 @@
 </h1>
 
 Developed using C++, this project can be used for digitisation of small scale canteens. It provides 10+ features like Register/Login Dashboard, Add, Search, Display, Modify & Delete Product details, Billing,
-Displaying Invoice with TAX/GST included. MySQL Database is used in backend. You can also use .csv file for simple execution of the program. 
+Displaying Invoice with TAX included; using MySQL database. 
 
+You can also use .csv file for simple execution of the program, in case you are facing any difficulty in setting up the MySQL database on your system.
 
 ## Program Demo
 

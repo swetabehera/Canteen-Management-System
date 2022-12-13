@@ -13,14 +13,12 @@ You can also use .csv file for simple execution of the program, in case you are 
 ## Program Demo
 
 * Registration/Login
-<p align="center">
-  <img src="https://github.com/swetabehera/Canteen-Management-System/blob/main/Login.gif" />
-</p>
 
-* Other features
-<p align="center">
-  <img src="https://github.com/swetabehera/Canteen-Management-System/blob/main/working.gif" />
-</p>
+![login](https://user-images.githubusercontent.com/34244004/207308726-0e77b56d-719b-4d5e-a3eb-cd7a306c01c6.gif)
+
+* Demo
+
+![working](https://user-images.githubusercontent.com/34244004/207308755-3430ee17-6a0c-4226-9192-c6dc108cffe1.gif)
 
 ## Features 
 
